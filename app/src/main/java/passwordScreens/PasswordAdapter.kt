@@ -1,0 +1,4 @@
+package passwordScreens
+
+class PasswordAdapter {
+}
